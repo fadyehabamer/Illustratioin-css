@@ -1,4 +1,4 @@
-# Illustratioin CSS
+# Illustration CSS
 > making HandMade header using css + Adobe illustrator
 
 A decorative wavy gradient header drawn in Adobe Illustrator (`Untitled-1.ai`), exported as SVG (`test-illustratour.svg`) and placed on a page with plain HTML/CSS.
@@ -15,7 +15,7 @@ python3 -m http.server 8000
 
 To edit the artwork, open `Untitled-1.ai` in Adobe Illustrator and re-export it as SVG over `test-illustratour.svg`.
 
-There is no live deployment for this repo.
+**Live:** https://fadyehabamer.github.io/Illustration-css/ (GitHub Pages from `main`; the root `index.html` redirects to `svg - illustrator/`).
 
 ## License
 
